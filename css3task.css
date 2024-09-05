@@ -1,0 +1,25 @@
+#top{
+    width: 400px;
+    height: 100px;
+    background-color: orange;
+}
+#bottom{
+    width: 400px;
+    height:100px;
+    background-color: green;
+}
+#center{
+    width:400px;
+    height:100px;
+    background-color: white;
+}
+#ashokachakra img{
+    width: 100px;
+    height:100px;
+
+}
+#ashokachakra{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
